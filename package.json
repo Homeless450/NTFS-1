@@ -1,0 +1,11 @@
+{
+  "name": "ntfs",
+  "version": "1.0.0",
+  "description": "ntfs",
+  "main": "index.js",
+  "author": "Alexei1999 <Shulzhickij.ao.17@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
